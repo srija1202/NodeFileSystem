@@ -1,0 +1,22 @@
+{
+  "name": "nodefilesystem",
+  "version": "1.0.0",
+  "description": "Node Js file system is a backend file serve that can be used to create files and retrieve files in the order of creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srija1202/NodeFileSystem.git"
+  },
+  "author": "Srija1202",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srija1202/NodeFileSystem/issues"
+  },
+  "homepage": "https://github.com/srija1202/NodeFileSystem#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
